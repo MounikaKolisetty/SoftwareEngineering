@@ -1,0 +1,45 @@
+D:\NewTestRepos\testrepository\HTM\AkkaSb.Net\bin\Debug\netstandard2.0\AkkaSb.Net.deps.json
+D:\NewTestRepos\testrepository\HTM\AkkaSb.Net\bin\Debug\netstandard2.0\AkkaSb.Net.dll
+D:\NewTestRepos\testrepository\HTM\AkkaSb.Net\bin\Debug\netstandard2.0\AkkaSb.Net.pdb
+D:\NewTestRepos\testrepository\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.csprojAssemblyReference.cache
+D:\NewTestRepos\testrepository\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.csproj.CoreCompileInputs.cache
+D:\NewTestRepos\testrepository\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.AssemblyInfoInputs.cache
+D:\NewTestRepos\testrepository\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.AssemblyInfo.cs
+D:\NewTestRepos\testrepository\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.dll
+D:\NewTestRepos\testrepository\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.pdb
+D:\HTM\AkkaSb.Net\bin\Debug\netstandard2.0\AkkaSb.Net.deps.json
+D:\HTM\AkkaSb.Net\bin\Debug\netstandard2.0\AkkaSb.Net.dll
+D:\HTM\AkkaSb.Net\bin\Debug\netstandard2.0\AkkaSb.Net.pdb
+D:\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.csprojAssemblyReference.cache
+D:\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.AssemblyInfoInputs.cache
+D:\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.AssemblyInfo.cs
+D:\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.csproj.CoreCompileInputs.cache
+D:\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.dll
+D:\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.pdb
+D:\New package for docker\HTM\AkkaSb.Net\bin\Debug\netstandard2.0\AkkaSb.Net.deps.json
+D:\New package for docker\HTM\AkkaSb.Net\bin\Debug\netstandard2.0\AkkaSb.Net.dll
+D:\New package for docker\HTM\AkkaSb.Net\bin\Debug\netstandard2.0\AkkaSb.Net.pdb
+D:\New package for docker\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.csprojAssemblyReference.cache
+D:\New package for docker\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.AssemblyInfoInputs.cache
+D:\New package for docker\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.AssemblyInfo.cs
+D:\New package for docker\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.csproj.CoreCompileInputs.cache
+D:\New package for docker\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.dll
+D:\New package for docker\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.pdb
+D:\GFDWFTHF\HTM\AkkaSb.Net\bin\Debug\netstandard2.0\AkkaSb.Net.deps.json
+D:\GFDWFTHF\HTM\AkkaSb.Net\bin\Debug\netstandard2.0\AkkaSb.Net.dll
+D:\GFDWFTHF\HTM\AkkaSb.Net\bin\Debug\netstandard2.0\AkkaSb.Net.pdb
+D:\GFDWFTHF\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.csprojAssemblyReference.cache
+D:\GFDWFTHF\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.AssemblyInfoInputs.cache
+D:\GFDWFTHF\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.AssemblyInfo.cs
+D:\GFDWFTHF\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.csproj.CoreCompileInputs.cache
+D:\GFDWFTHF\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.dll
+D:\GFDWFTHF\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.pdb
+D:\All Software Folders\GFDWFTHF\HTM\AkkaSb.Net\bin\Debug\netstandard2.0\AkkaSb.Net.deps.json
+D:\All Software Folders\GFDWFTHF\HTM\AkkaSb.Net\bin\Debug\netstandard2.0\AkkaSb.Net.dll
+D:\All Software Folders\GFDWFTHF\HTM\AkkaSb.Net\bin\Debug\netstandard2.0\AkkaSb.Net.pdb
+D:\All Software Folders\GFDWFTHF\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.csprojAssemblyReference.cache
+D:\All Software Folders\GFDWFTHF\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.AssemblyInfoInputs.cache
+D:\All Software Folders\GFDWFTHF\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.AssemblyInfo.cs
+D:\All Software Folders\GFDWFTHF\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.csproj.CoreCompileInputs.cache
+D:\All Software Folders\GFDWFTHF\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.dll
+D:\All Software Folders\GFDWFTHF\HTM\AkkaSb.Net\obj\Debug\netstandard2.0\AkkaSb.Net.pdb

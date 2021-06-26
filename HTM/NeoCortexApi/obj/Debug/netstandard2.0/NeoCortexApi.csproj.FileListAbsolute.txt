@@ -1,0 +1,90 @@
+D:\NewTestRepos\testrepository\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexApi.deps.json
+D:\NewTestRepos\testrepository\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexApi.dll
+D:\NewTestRepos\testrepository\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexApi.pdb
+D:\NewTestRepos\testrepository\HTM\NeoCortexApi\bin\Debug\netstandard2.0\AkkaSb.Net.dll
+D:\NewTestRepos\testrepository\HTM\NeoCortexApi\bin\Debug\netstandard2.0\DistributedComputeLib.dll
+D:\NewTestRepos\testrepository\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\NewTestRepos\testrepository\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexEntities.dll
+D:\NewTestRepos\testrepository\HTM\NeoCortexApi\bin\Debug\netstandard2.0\DistributedComputeLib.pdb
+D:\NewTestRepos\testrepository\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+D:\NewTestRepos\testrepository\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexEntities.pdb
+D:\NewTestRepos\testrepository\HTM\NeoCortexApi\bin\Debug\netstandard2.0\AkkaSb.Net.pdb
+D:\NewTestRepos\testrepository\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.csprojAssemblyReference.cache
+D:\NewTestRepos\testrepository\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.csproj.CoreCompileInputs.cache
+D:\NewTestRepos\testrepository\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.AssemblyInfoInputs.cache
+D:\NewTestRepos\testrepository\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.AssemblyInfo.cs
+D:\NewTestRepos\testrepository\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.csproj.CopyComplete
+D:\NewTestRepos\testrepository\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.dll
+D:\NewTestRepos\testrepository\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.pdb
+D:\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexApi.deps.json
+D:\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexApi.dll
+D:\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexApi.pdb
+D:\HTM\NeoCortexApi\bin\Debug\netstandard2.0\AkkaSb.Net.dll
+D:\HTM\NeoCortexApi\bin\Debug\netstandard2.0\DistributedComputeLib.dll
+D:\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexEntities.dll
+D:\HTM\NeoCortexApi\bin\Debug\netstandard2.0\DistributedComputeLib.pdb
+D:\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+D:\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexEntities.pdb
+D:\HTM\NeoCortexApi\bin\Debug\netstandard2.0\AkkaSb.Net.pdb
+D:\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.csprojAssemblyReference.cache
+D:\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.AssemblyInfoInputs.cache
+D:\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.AssemblyInfo.cs
+D:\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.csproj.CoreCompileInputs.cache
+D:\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.csproj.CopyComplete
+D:\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.dll
+D:\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.pdb
+D:\New package for docker\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexApi.deps.json
+D:\New package for docker\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexApi.dll
+D:\New package for docker\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexApi.pdb
+D:\New package for docker\HTM\NeoCortexApi\bin\Debug\netstandard2.0\AkkaSb.Net.dll
+D:\New package for docker\HTM\NeoCortexApi\bin\Debug\netstandard2.0\DistributedComputeLib.dll
+D:\New package for docker\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\New package for docker\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexEntities.dll
+D:\New package for docker\HTM\NeoCortexApi\bin\Debug\netstandard2.0\DistributedComputeLib.pdb
+D:\New package for docker\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+D:\New package for docker\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexEntities.pdb
+D:\New package for docker\HTM\NeoCortexApi\bin\Debug\netstandard2.0\AkkaSb.Net.pdb
+D:\New package for docker\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.csprojAssemblyReference.cache
+D:\New package for docker\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.AssemblyInfoInputs.cache
+D:\New package for docker\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.AssemblyInfo.cs
+D:\New package for docker\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.csproj.CoreCompileInputs.cache
+D:\New package for docker\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.csproj.CopyComplete
+D:\New package for docker\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.dll
+D:\New package for docker\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.pdb
+D:\GFDWFTHF\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexApi.deps.json
+D:\GFDWFTHF\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexApi.dll
+D:\GFDWFTHF\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexApi.pdb
+D:\GFDWFTHF\HTM\NeoCortexApi\bin\Debug\netstandard2.0\AkkaSb.Net.dll
+D:\GFDWFTHF\HTM\NeoCortexApi\bin\Debug\netstandard2.0\DistributedComputeLib.dll
+D:\GFDWFTHF\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\GFDWFTHF\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexEntities.dll
+D:\GFDWFTHF\HTM\NeoCortexApi\bin\Debug\netstandard2.0\DistributedComputeLib.pdb
+D:\GFDWFTHF\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+D:\GFDWFTHF\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexEntities.pdb
+D:\GFDWFTHF\HTM\NeoCortexApi\bin\Debug\netstandard2.0\AkkaSb.Net.pdb
+D:\GFDWFTHF\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.csprojAssemblyReference.cache
+D:\GFDWFTHF\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.AssemblyInfoInputs.cache
+D:\GFDWFTHF\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.AssemblyInfo.cs
+D:\GFDWFTHF\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.csproj.CopyComplete
+D:\GFDWFTHF\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.dll
+D:\GFDWFTHF\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.pdb
+D:\GFDWFTHF\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.csproj.CoreCompileInputs.cache
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexApi.deps.json
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexApi.dll
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexApi.pdb
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexApi\bin\Debug\netstandard2.0\AkkaSb.Net.dll
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexApi\bin\Debug\netstandard2.0\DistributedComputeLib.dll
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexEntities.dll
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexApi\bin\Debug\netstandard2.0\DistributedComputeLib.pdb
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexApi\bin\Debug\netstandard2.0\NeoCortexEntities.pdb
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexApi\bin\Debug\netstandard2.0\AkkaSb.Net.pdb
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.csprojAssemblyReference.cache
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.AssemblyInfoInputs.cache
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.AssemblyInfo.cs
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.csproj.CoreCompileInputs.cache
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.csproj.CopyComplete
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.dll
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexApi\obj\Debug\netstandard2.0\NeoCortexApi.pdb

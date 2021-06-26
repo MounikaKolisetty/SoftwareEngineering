@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NeoCortexApi</id>
+    <version>1.0.7</version>
+    <authors>Damir Dobric</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/ddobric/neocortexapi</projectUrl>
+    <description>Hierarchical Temporal Memory implementation in C#/.NET Core. This repository contains set of libraries around NeoCortext API .NET Core library. NeoCortex API focuses implementation of Hierarchical Temporal Memory Cortical Learning Algorithm. Current version is first implementation of this algorithm on .NET platform. It includes the Spatial Pooler, Temporal Pooler, various encoders and CorticalNetwork algorithms. Implementation of this library aligns to existing Python and JAVA implementation of HTM. Due similarities between JAVA and C#, current API of SpatialPooler in C# is very similar to JAVA API. However the implementation of future versions will include some API changes to API style, which is additionally more aligned to C# community. This repository also cotains first experimental implementation of distributed highly scalable HTM CLA based on Actor Programming Model.</description>
+    <copyright>Damir Dobric</copyright>
+    <tags>htm</tags>
+    <repository type="git" url="https://github.com/ddobric/neocortexapi" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="DistributedComputeLib" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="NeoCortexArrayLib" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="NeoCortexEntities" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.CSharp" version="4.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging.Abstractions" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\GFDWFTHF\HTM\NeoCortexApi\bin\Release\netstandard2.0\NeoCortexApi.dll" target="lib\netstandard2.0\NeoCortexApi.dll" />
+  </files>
+</package>

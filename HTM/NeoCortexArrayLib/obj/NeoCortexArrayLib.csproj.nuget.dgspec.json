@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexArrayLib\\NeoCortexArrayLib.csproj": {}
+  },
+  "projects": {
+    "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexArrayLib\\NeoCortexArrayLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexArrayLib\\NeoCortexArrayLib.csproj",
+        "projectName": "NeoCortexArrayLib",
+        "projectPath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexArrayLib\\NeoCortexArrayLib.csproj",
+        "packagesPath": "C:\\Users\\anikl\\.nuget\\packages\\",
+        "outputPath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexArrayLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\All Software Folders\\GFDWFTHF\\HTM\\NuGet.Config",
+          "C:\\Users\\anikl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\All Software Folders\\GFDWFTHF\\HTM\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.8, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

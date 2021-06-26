@@ -1,0 +1,12 @@
+D:\GFDWFTHF\HTM\NeoCortexEntities\bin\Release\netstandard2.0\NeoCortexEntities.deps.json
+D:\GFDWFTHF\HTM\NeoCortexEntities\bin\Release\netstandard2.0\NeoCortexEntities.dll
+D:\GFDWFTHF\HTM\NeoCortexEntities\bin\Release\netstandard2.0\NeoCortexEntities.pdb
+D:\GFDWFTHF\HTM\NeoCortexEntities\bin\Release\netstandard2.0\NeoCortexArrayLib.dll
+D:\GFDWFTHF\HTM\NeoCortexEntities\bin\Release\netstandard2.0\NeoCortexArrayLib.pdb
+D:\GFDWFTHF\HTM\NeoCortexEntities\obj\Release\netstandard2.0\NeoCortexEntities.csprojAssemblyReference.cache
+D:\GFDWFTHF\HTM\NeoCortexEntities\obj\Release\netstandard2.0\NeoCortexEntities.AssemblyInfoInputs.cache
+D:\GFDWFTHF\HTM\NeoCortexEntities\obj\Release\netstandard2.0\NeoCortexEntities.AssemblyInfo.cs
+D:\GFDWFTHF\HTM\NeoCortexEntities\obj\Release\netstandard2.0\NeoCortexEntities.csproj.CoreCompileInputs.cache
+D:\GFDWFTHF\HTM\NeoCortexEntities\obj\Release\netstandard2.0\NeoCortexEntities.csproj.CopyComplete
+D:\GFDWFTHF\HTM\NeoCortexEntities\obj\Release\netstandard2.0\NeoCortexEntities.dll
+D:\GFDWFTHF\HTM\NeoCortexEntities\obj\Release\netstandard2.0\NeoCortexEntities.pdb

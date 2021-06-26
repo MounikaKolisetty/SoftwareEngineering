@@ -1,0 +1,4104 @@
+{
+  "connections": {
+    "potentialRadius": 16,
+    "potentialPct": 0.5,
+    "m_GlobalInhibition": false,
+    "m_LocalAreaDensity": -1.0,
+    "m_NumActiveColumnsPerInhArea": 0.0,
+    "m_StimulusThreshold": 0.0,
+    "synPermInactiveDec": 0.008,
+    "synPermActiveInc": 0.05,
+    "synPermConnected": 0.1,
+    "synPermBelowStimulusInc": 0.01,
+    "minPctOverlapDutyCycles": 0.001,
+    "minPctActiveDutyCycles": 0.001,
+    "predictedSegmentDecrement": 0.0,
+    "dutyCyclePeriod": 1000,
+    "maxBoost": 10.0,
+    "wrapAround": true,
+    "isBumpUpWeakColumnsDisabled": false,
+    "numInputs": 1,
+    "numColumns": 32,
+    "synPermMin": 0.0,
+    "synPermMax": 1.0,
+    "synPermTrimThreshold": 0.025,
+    "updatePeriod": 50,
+    "initConnectedPct": 0.5,
+    "version": 1.0,
+    "spIterationNum": 0,
+    "spIterationLearnNum": 0,
+    "tmIteration": 2,
+    "m_BoostedmOverlaps": null,
+    "m_Overlaps": null,
+    "inputTopology": null,
+    "columnTopology": null,
+    "inputMatrix": null,
+    "tieBreaker": null,
+    "connectedCounts2": null,
+    "m_InhibitionRadius": 0,
+    "overlapDutyCycles": null,
+    "activeDutyCycles": null,
+    "minOverlapDutyCycles": null,
+    "minActiveDutyCycles": null,
+    "m_BoostFactors": null,
+    "activeCells": [
+      {
+        "Index": 0,
+        "ParentColumnIndex": 0
+      },
+      {
+        "Index": 1,
+        "ParentColumnIndex": 0
+      },
+      {
+        "Index": 2,
+        "ParentColumnIndex": 0
+      },
+      {
+        "Index": 3,
+        "ParentColumnIndex": 0
+      }
+    ],
+    "winnerCells": [
+      {
+        "Index": 0,
+        "ParentColumnIndex": 0
+      }
+    ],
+    "predictiveCells": [],
+    "activeSegments": [],
+    "matchingSegments": [],
+    "columnDimensions": [
+      32
+    ],
+    "cellsPerColumn": 4,
+    "inputDimensions": [
+      100
+    ],
+    "activationThreshold": 3,
+    "learningRadius": 10,
+    "minThreshold": 2,
+    "maxNewSynapseCount": 3,
+    "maxSegmentsPerCell": 225,
+    "maxSynapsesPerSegment": 225,
+    "initialPermanence": 0.21,
+    "connectedPermanence": 0.5,
+    "permanenceIncrement": 0.1,
+    "permanenceDecrement": 0.1,
+    "memory": {
+      "$type": "NeoCortexApi.Entities.SparseObjectMatrix`1[[NeoCortexApi.Entities.Column, NeoCortexEntities]], NeoCortexApi",
+      "sparseMap": {
+        "$type": "NeoCortexApi.DistributedComputeLib.InMemoryDistributedDictionary`2[[System.Int32, System.Private.CoreLib],[NeoCortexApi.Entities.Column, NeoCortexEntities]], DistributedComputeLib",
+        "dictList": [
+          {
+            "0": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 0,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 0,
+                "boxedIndex": {
+                  "Value": 0
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 0,
+                  "ParentColumnIndex": 0
+                },
+                {
+                  "Index": 1,
+                  "ParentColumnIndex": 0
+                },
+                {
+                  "Index": 2,
+                  "ParentColumnIndex": 0
+                },
+                {
+                  "Index": 3,
+                  "ParentColumnIndex": 0
+                }
+              ]
+            },
+            "1": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 1,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 1,
+                "boxedIndex": {
+                  "Value": 1
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 4,
+                  "ParentColumnIndex": 1
+                },
+                {
+                  "Index": 5,
+                  "ParentColumnIndex": 1
+                },
+                {
+                  "Index": 6,
+                  "ParentColumnIndex": 1
+                },
+                {
+                  "Index": 7,
+                  "ParentColumnIndex": 1
+                }
+              ]
+            },
+            "2": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 2,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 2,
+                "boxedIndex": {
+                  "Value": 2
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 8,
+                  "ParentColumnIndex": 2
+                },
+                {
+                  "Index": 9,
+                  "ParentColumnIndex": 2
+                },
+                {
+                  "Index": 10,
+                  "ParentColumnIndex": 2
+                },
+                {
+                  "Index": 11,
+                  "ParentColumnIndex": 2
+                }
+              ]
+            },
+            "3": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 3,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 3,
+                "boxedIndex": {
+                  "Value": 3
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 12,
+                  "ParentColumnIndex": 3
+                },
+                {
+                  "Index": 13,
+                  "ParentColumnIndex": 3
+                },
+                {
+                  "Index": 14,
+                  "ParentColumnIndex": 3
+                },
+                {
+                  "Index": 15,
+                  "ParentColumnIndex": 3
+                }
+              ]
+            },
+            "4": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 4,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 4,
+                "boxedIndex": {
+                  "Value": 4
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 16,
+                  "ParentColumnIndex": 4
+                },
+                {
+                  "Index": 17,
+                  "ParentColumnIndex": 4
+                },
+                {
+                  "Index": 18,
+                  "ParentColumnIndex": 4
+                },
+                {
+                  "Index": 19,
+                  "ParentColumnIndex": 4
+                }
+              ]
+            },
+            "5": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 5,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 5,
+                "boxedIndex": {
+                  "Value": 5
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 20,
+                  "ParentColumnIndex": 5
+                },
+                {
+                  "Index": 21,
+                  "ParentColumnIndex": 5
+                },
+                {
+                  "Index": 22,
+                  "ParentColumnIndex": 5
+                },
+                {
+                  "Index": 23,
+                  "ParentColumnIndex": 5
+                }
+              ]
+            },
+            "6": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 6,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 6,
+                "boxedIndex": {
+                  "Value": 6
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 24,
+                  "ParentColumnIndex": 6
+                },
+                {
+                  "Index": 25,
+                  "ParentColumnIndex": 6
+                },
+                {
+                  "Index": 26,
+                  "ParentColumnIndex": 6
+                },
+                {
+                  "Index": 27,
+                  "ParentColumnIndex": 6
+                }
+              ]
+            },
+            "7": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 7,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 7,
+                "boxedIndex": {
+                  "Value": 7
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 28,
+                  "ParentColumnIndex": 7
+                },
+                {
+                  "Index": 29,
+                  "ParentColumnIndex": 7
+                },
+                {
+                  "Index": 30,
+                  "ParentColumnIndex": 7
+                },
+                {
+                  "Index": 31,
+                  "ParentColumnIndex": 7
+                }
+              ]
+            },
+            "8": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 8,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 8,
+                "boxedIndex": {
+                  "Value": 8
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 32,
+                  "ParentColumnIndex": 8
+                },
+                {
+                  "Index": 33,
+                  "ParentColumnIndex": 8
+                },
+                {
+                  "Index": 34,
+                  "ParentColumnIndex": 8
+                },
+                {
+                  "Index": 35,
+                  "ParentColumnIndex": 8
+                }
+              ]
+            },
+            "9": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 9,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 9,
+                "boxedIndex": {
+                  "Value": 9
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 36,
+                  "ParentColumnIndex": 9
+                },
+                {
+                  "Index": 37,
+                  "ParentColumnIndex": 9
+                },
+                {
+                  "Index": 38,
+                  "ParentColumnIndex": 9
+                },
+                {
+                  "Index": 39,
+                  "ParentColumnIndex": 9
+                }
+              ]
+            },
+            "10": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 10,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 10,
+                "boxedIndex": {
+                  "Value": 10
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 40,
+                  "ParentColumnIndex": 10
+                },
+                {
+                  "Index": 41,
+                  "ParentColumnIndex": 10
+                },
+                {
+                  "Index": 42,
+                  "ParentColumnIndex": 10
+                },
+                {
+                  "Index": 43,
+                  "ParentColumnIndex": 10
+                }
+              ]
+            },
+            "11": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 11,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 11,
+                "boxedIndex": {
+                  "Value": 11
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 44,
+                  "ParentColumnIndex": 11
+                },
+                {
+                  "Index": 45,
+                  "ParentColumnIndex": 11
+                },
+                {
+                  "Index": 46,
+                  "ParentColumnIndex": 11
+                },
+                {
+                  "Index": 47,
+                  "ParentColumnIndex": 11
+                }
+              ]
+            },
+            "12": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 12,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 12,
+                "boxedIndex": {
+                  "Value": 12
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 48,
+                  "ParentColumnIndex": 12
+                },
+                {
+                  "Index": 49,
+                  "ParentColumnIndex": 12
+                },
+                {
+                  "Index": 50,
+                  "ParentColumnIndex": 12
+                },
+                {
+                  "Index": 51,
+                  "ParentColumnIndex": 12
+                }
+              ]
+            },
+            "13": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 13,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 13,
+                "boxedIndex": {
+                  "Value": 13
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 52,
+                  "ParentColumnIndex": 13
+                },
+                {
+                  "Index": 53,
+                  "ParentColumnIndex": 13
+                },
+                {
+                  "Index": 54,
+                  "ParentColumnIndex": 13
+                },
+                {
+                  "Index": 55,
+                  "ParentColumnIndex": 13
+                }
+              ]
+            },
+            "14": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 14,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 14,
+                "boxedIndex": {
+                  "Value": 14
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 56,
+                  "ParentColumnIndex": 14
+                },
+                {
+                  "Index": 57,
+                  "ParentColumnIndex": 14
+                },
+                {
+                  "Index": 58,
+                  "ParentColumnIndex": 14
+                },
+                {
+                  "Index": 59,
+                  "ParentColumnIndex": 14
+                }
+              ]
+            },
+            "15": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 15,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 15,
+                "boxedIndex": {
+                  "Value": 15
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 60,
+                  "ParentColumnIndex": 15
+                },
+                {
+                  "Index": 61,
+                  "ParentColumnIndex": 15
+                },
+                {
+                  "Index": 62,
+                  "ParentColumnIndex": 15
+                },
+                {
+                  "Index": 63,
+                  "ParentColumnIndex": 15
+                }
+              ]
+            },
+            "16": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 16,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 16,
+                "boxedIndex": {
+                  "Value": 16
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 64,
+                  "ParentColumnIndex": 16
+                },
+                {
+                  "Index": 65,
+                  "ParentColumnIndex": 16
+                },
+                {
+                  "Index": 66,
+                  "ParentColumnIndex": 16
+                },
+                {
+                  "Index": 67,
+                  "ParentColumnIndex": 16
+                }
+              ]
+            },
+            "17": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 17,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 17,
+                "boxedIndex": {
+                  "Value": 17
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 68,
+                  "ParentColumnIndex": 17
+                },
+                {
+                  "Index": 69,
+                  "ParentColumnIndex": 17
+                },
+                {
+                  "Index": 70,
+                  "ParentColumnIndex": 17
+                },
+                {
+                  "Index": 71,
+                  "ParentColumnIndex": 17
+                }
+              ]
+            },
+            "18": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 18,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 18,
+                "boxedIndex": {
+                  "Value": 18
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 72,
+                  "ParentColumnIndex": 18
+                },
+                {
+                  "Index": 73,
+                  "ParentColumnIndex": 18
+                },
+                {
+                  "Index": 74,
+                  "ParentColumnIndex": 18
+                },
+                {
+                  "Index": 75,
+                  "ParentColumnIndex": 18
+                }
+              ]
+            },
+            "19": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 19,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 19,
+                "boxedIndex": {
+                  "Value": 19
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 76,
+                  "ParentColumnIndex": 19
+                },
+                {
+                  "Index": 77,
+                  "ParentColumnIndex": 19
+                },
+                {
+                  "Index": 78,
+                  "ParentColumnIndex": 19
+                },
+                {
+                  "Index": 79,
+                  "ParentColumnIndex": 19
+                }
+              ]
+            },
+            "20": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 20,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 20,
+                "boxedIndex": {
+                  "Value": 20
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 80,
+                  "ParentColumnIndex": 20
+                },
+                {
+                  "Index": 81,
+                  "ParentColumnIndex": 20
+                },
+                {
+                  "Index": 82,
+                  "ParentColumnIndex": 20
+                },
+                {
+                  "Index": 83,
+                  "ParentColumnIndex": 20
+                }
+              ]
+            },
+            "21": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 21,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 21,
+                "boxedIndex": {
+                  "Value": 21
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 84,
+                  "ParentColumnIndex": 21
+                },
+                {
+                  "Index": 85,
+                  "ParentColumnIndex": 21
+                },
+                {
+                  "Index": 86,
+                  "ParentColumnIndex": 21
+                },
+                {
+                  "Index": 87,
+                  "ParentColumnIndex": 21
+                }
+              ]
+            },
+            "22": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 22,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 22,
+                "boxedIndex": {
+                  "Value": 22
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 88,
+                  "ParentColumnIndex": 22
+                },
+                {
+                  "Index": 89,
+                  "ParentColumnIndex": 22
+                },
+                {
+                  "Index": 90,
+                  "ParentColumnIndex": 22
+                },
+                {
+                  "Index": 91,
+                  "ParentColumnIndex": 22
+                }
+              ]
+            },
+            "23": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 23,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 23,
+                "boxedIndex": {
+                  "Value": 23
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 92,
+                  "ParentColumnIndex": 23
+                },
+                {
+                  "Index": 93,
+                  "ParentColumnIndex": 23
+                },
+                {
+                  "Index": 94,
+                  "ParentColumnIndex": 23
+                },
+                {
+                  "Index": 95,
+                  "ParentColumnIndex": 23
+                }
+              ]
+            },
+            "24": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 24,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 24,
+                "boxedIndex": {
+                  "Value": 24
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 96,
+                  "ParentColumnIndex": 24
+                },
+                {
+                  "Index": 97,
+                  "ParentColumnIndex": 24
+                },
+                {
+                  "Index": 98,
+                  "ParentColumnIndex": 24
+                },
+                {
+                  "Index": 99,
+                  "ParentColumnIndex": 24
+                }
+              ]
+            },
+            "25": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 25,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 25,
+                "boxedIndex": {
+                  "Value": 25
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 100,
+                  "ParentColumnIndex": 25
+                },
+                {
+                  "Index": 101,
+                  "ParentColumnIndex": 25
+                },
+                {
+                  "Index": 102,
+                  "ParentColumnIndex": 25
+                },
+                {
+                  "Index": 103,
+                  "ParentColumnIndex": 25
+                }
+              ]
+            },
+            "26": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 26,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 26,
+                "boxedIndex": {
+                  "Value": 26
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 104,
+                  "ParentColumnIndex": 26
+                },
+                {
+                  "Index": 105,
+                  "ParentColumnIndex": 26
+                },
+                {
+                  "Index": 106,
+                  "ParentColumnIndex": 26
+                },
+                {
+                  "Index": 107,
+                  "ParentColumnIndex": 26
+                }
+              ]
+            },
+            "27": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 27,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 27,
+                "boxedIndex": {
+                  "Value": 27
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 108,
+                  "ParentColumnIndex": 27
+                },
+                {
+                  "Index": 109,
+                  "ParentColumnIndex": 27
+                },
+                {
+                  "Index": 110,
+                  "ParentColumnIndex": 27
+                },
+                {
+                  "Index": 111,
+                  "ParentColumnIndex": 27
+                }
+              ]
+            },
+            "28": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 28,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 28,
+                "boxedIndex": {
+                  "Value": 28
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 112,
+                  "ParentColumnIndex": 28
+                },
+                {
+                  "Index": 113,
+                  "ParentColumnIndex": 28
+                },
+                {
+                  "Index": 114,
+                  "ParentColumnIndex": 28
+                },
+                {
+                  "Index": 115,
+                  "ParentColumnIndex": 28
+                }
+              ]
+            },
+            "29": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 29,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 29,
+                "boxedIndex": {
+                  "Value": 29
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 116,
+                  "ParentColumnIndex": 29
+                },
+                {
+                  "Index": 117,
+                  "ParentColumnIndex": 29
+                },
+                {
+                  "Index": 118,
+                  "ParentColumnIndex": 29
+                },
+                {
+                  "Index": 119,
+                  "ParentColumnIndex": 29
+                }
+              ]
+            },
+            "30": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 30,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 30,
+                "boxedIndex": {
+                  "Value": 30
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 120,
+                  "ParentColumnIndex": 30
+                },
+                {
+                  "Index": 121,
+                  "ParentColumnIndex": 30
+                },
+                {
+                  "Index": 122,
+                  "ParentColumnIndex": 30
+                },
+                {
+                  "Index": 123,
+                  "ParentColumnIndex": 30
+                }
+              ]
+            },
+            "31": {
+              "connectedInputCounter": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputCounterMatrix": {
+                "$type": "NeoCortexApi.Entities.SparseBinaryMatrix, NeoCortexEntities",
+                "backingArray": {
+                  "$type": "NeoCortexApi.Entities.InMemoryArray, NeoCortexEntities",
+                  "dimensions": [
+                    1,
+                    1
+                  ],
+                  "backingArray": {
+                    "$type": "System.Int32[,], System.Private.CoreLib",
+                    "$values": [
+                      [
+                        0
+                      ]
+                    ]
+                  },
+                  "numOfNodes": 1,
+                  "Rank": 2
+                },
+                "trueCounts": [
+                  0
+                ],
+                "<ModuleTopology>k__BackingField": {
+                  "Dimensions": [
+                    1,
+                    1
+                  ],
+                  "IsMajorOrdering": false,
+                  "DimensionMultiplies": [
+                    1,
+                    1
+                  ],
+                  "NumDimensions": 2
+                }
+              },
+              "ConnectedInputBits": [
+                0
+              ],
+              "Index": 31,
+              "ProximalDendrite": {
+                "RFPool": null,
+                "ConnectedInputs": [],
+                "ParentColumnIndex": 31,
+                "boxedIndex": {
+                  "Value": 31
+                },
+                "Synapses": [],
+                "SynapsePermConnected": 0.1,
+                "NumInputs": 0
+              },
+              "Cells": [
+                {
+                  "Index": 124,
+                  "ParentColumnIndex": 31
+                },
+                {
+                  "Index": 125,
+                  "ParentColumnIndex": 31
+                },
+                {
+                  "Index": 126,
+                  "ParentColumnIndex": 31
+                },
+                {
+                  "Index": 127,
+                  "ParentColumnIndex": 31
+                }
+              ]
+            }
+          }
+        ],
+        "numElements": 32,
+        "currentDictIndex": -1,
+        "currentIndex": -1
+      },
+      "<ModuleTopology>k__BackingField": {
+        "Dimensions": [
+          32
+        ],
+        "IsMajorOrdering": false,
+        "DimensionMultiplies": [
+          1
+        ],
+        "NumDimensions": 1
+      }
+    },
+    "m_HtmConfig": {
+      "RandomGenSeed": 42,
+      "ColumnTopology": {
+        "Dimensions": [
+          32
+        ],
+        "IsMajorOrdering": false,
+        "DimensionMultiplies": [
+          1
+        ],
+        "NumDimensions": 1
+      },
+      "InputTopology": null,
+      "IsWrapAround": true,
+      "Name": null,
+      "PotentialPct": 0.5,
+      "PotentialRadius": 16,
+      "SynPermConnected": 0.1,
+      "StimulusThreshold": 0.0,
+      "NumInputs": 1,
+      "NumColumns": 32,
+      "SynPermMax": 1.0,
+      "SynPermMin": 0.0,
+      "InitialSynapseConnsPct": 0.5,
+      "SynPermTrimThreshold": 0.025,
+      "SynPermBelowStimulusInc": 0.01,
+      "CellsPerColumn": 4,
+      "SynPermInactiveDec": 0.008,
+      "PermanenceIncrement": 0.1,
+      "PermanenceDecrement": 0.1,
+      "MaxNewSynapseCount": 3
+    },
+    "<cells>k__BackingField": [
+      {
+        "Index": 0,
+        "ParentColumnIndex": 0
+      },
+      {
+        "Index": 1,
+        "ParentColumnIndex": 0
+      },
+      {
+        "Index": 2,
+        "ParentColumnIndex": 0
+      },
+      {
+        "Index": 3,
+        "ParentColumnIndex": 0
+      },
+      {
+        "Index": 4,
+        "ParentColumnIndex": 1
+      },
+      {
+        "Index": 5,
+        "ParentColumnIndex": 1
+      },
+      {
+        "Index": 6,
+        "ParentColumnIndex": 1
+      },
+      {
+        "Index": 7,
+        "ParentColumnIndex": 1
+      },
+      {
+        "Index": 8,
+        "ParentColumnIndex": 2
+      },
+      {
+        "Index": 9,
+        "ParentColumnIndex": 2
+      },
+      {
+        "Index": 10,
+        "ParentColumnIndex": 2
+      },
+      {
+        "Index": 11,
+        "ParentColumnIndex": 2
+      },
+      {
+        "Index": 12,
+        "ParentColumnIndex": 3
+      },
+      {
+        "Index": 13,
+        "ParentColumnIndex": 3
+      },
+      {
+        "Index": 14,
+        "ParentColumnIndex": 3
+      },
+      {
+        "Index": 15,
+        "ParentColumnIndex": 3
+      },
+      {
+        "Index": 16,
+        "ParentColumnIndex": 4
+      },
+      {
+        "Index": 17,
+        "ParentColumnIndex": 4
+      },
+      {
+        "Index": 18,
+        "ParentColumnIndex": 4
+      },
+      {
+        "Index": 19,
+        "ParentColumnIndex": 4
+      },
+      {
+        "Index": 20,
+        "ParentColumnIndex": 5
+      },
+      {
+        "Index": 21,
+        "ParentColumnIndex": 5
+      },
+      {
+        "Index": 22,
+        "ParentColumnIndex": 5
+      },
+      {
+        "Index": 23,
+        "ParentColumnIndex": 5
+      },
+      {
+        "Index": 24,
+        "ParentColumnIndex": 6
+      },
+      {
+        "Index": 25,
+        "ParentColumnIndex": 6
+      },
+      {
+        "Index": 26,
+        "ParentColumnIndex": 6
+      },
+      {
+        "Index": 27,
+        "ParentColumnIndex": 6
+      },
+      {
+        "Index": 28,
+        "ParentColumnIndex": 7
+      },
+      {
+        "Index": 29,
+        "ParentColumnIndex": 7
+      },
+      {
+        "Index": 30,
+        "ParentColumnIndex": 7
+      },
+      {
+        "Index": 31,
+        "ParentColumnIndex": 7
+      },
+      {
+        "Index": 32,
+        "ParentColumnIndex": 8
+      },
+      {
+        "Index": 33,
+        "ParentColumnIndex": 8
+      },
+      {
+        "Index": 34,
+        "ParentColumnIndex": 8
+      },
+      {
+        "Index": 35,
+        "ParentColumnIndex": 8
+      },
+      {
+        "Index": 36,
+        "ParentColumnIndex": 9
+      },
+      {
+        "Index": 37,
+        "ParentColumnIndex": 9
+      },
+      {
+        "Index": 38,
+        "ParentColumnIndex": 9
+      },
+      {
+        "Index": 39,
+        "ParentColumnIndex": 9
+      },
+      {
+        "Index": 40,
+        "ParentColumnIndex": 10
+      },
+      {
+        "Index": 41,
+        "ParentColumnIndex": 10
+      },
+      {
+        "Index": 42,
+        "ParentColumnIndex": 10
+      },
+      {
+        "Index": 43,
+        "ParentColumnIndex": 10
+      },
+      {
+        "Index": 44,
+        "ParentColumnIndex": 11
+      },
+      {
+        "Index": 45,
+        "ParentColumnIndex": 11
+      },
+      {
+        "Index": 46,
+        "ParentColumnIndex": 11
+      },
+      {
+        "Index": 47,
+        "ParentColumnIndex": 11
+      },
+      {
+        "Index": 48,
+        "ParentColumnIndex": 12
+      },
+      {
+        "Index": 49,
+        "ParentColumnIndex": 12
+      },
+      {
+        "Index": 50,
+        "ParentColumnIndex": 12
+      },
+      {
+        "Index": 51,
+        "ParentColumnIndex": 12
+      },
+      {
+        "Index": 52,
+        "ParentColumnIndex": 13
+      },
+      {
+        "Index": 53,
+        "ParentColumnIndex": 13
+      },
+      {
+        "Index": 54,
+        "ParentColumnIndex": 13
+      },
+      {
+        "Index": 55,
+        "ParentColumnIndex": 13
+      },
+      {
+        "Index": 56,
+        "ParentColumnIndex": 14
+      },
+      {
+        "Index": 57,
+        "ParentColumnIndex": 14
+      },
+      {
+        "Index": 58,
+        "ParentColumnIndex": 14
+      },
+      {
+        "Index": 59,
+        "ParentColumnIndex": 14
+      },
+      {
+        "Index": 60,
+        "ParentColumnIndex": 15
+      },
+      {
+        "Index": 61,
+        "ParentColumnIndex": 15
+      },
+      {
+        "Index": 62,
+        "ParentColumnIndex": 15
+      },
+      {
+        "Index": 63,
+        "ParentColumnIndex": 15
+      },
+      {
+        "Index": 64,
+        "ParentColumnIndex": 16
+      },
+      {
+        "Index": 65,
+        "ParentColumnIndex": 16
+      },
+      {
+        "Index": 66,
+        "ParentColumnIndex": 16
+      },
+      {
+        "Index": 67,
+        "ParentColumnIndex": 16
+      },
+      {
+        "Index": 68,
+        "ParentColumnIndex": 17
+      },
+      {
+        "Index": 69,
+        "ParentColumnIndex": 17
+      },
+      {
+        "Index": 70,
+        "ParentColumnIndex": 17
+      },
+      {
+        "Index": 71,
+        "ParentColumnIndex": 17
+      },
+      {
+        "Index": 72,
+        "ParentColumnIndex": 18
+      },
+      {
+        "Index": 73,
+        "ParentColumnIndex": 18
+      },
+      {
+        "Index": 74,
+        "ParentColumnIndex": 18
+      },
+      {
+        "Index": 75,
+        "ParentColumnIndex": 18
+      },
+      {
+        "Index": 76,
+        "ParentColumnIndex": 19
+      },
+      {
+        "Index": 77,
+        "ParentColumnIndex": 19
+      },
+      {
+        "Index": 78,
+        "ParentColumnIndex": 19
+      },
+      {
+        "Index": 79,
+        "ParentColumnIndex": 19
+      },
+      {
+        "Index": 80,
+        "ParentColumnIndex": 20
+      },
+      {
+        "Index": 81,
+        "ParentColumnIndex": 20
+      },
+      {
+        "Index": 82,
+        "ParentColumnIndex": 20
+      },
+      {
+        "Index": 83,
+        "ParentColumnIndex": 20
+      },
+      {
+        "Index": 84,
+        "ParentColumnIndex": 21
+      },
+      {
+        "Index": 85,
+        "ParentColumnIndex": 21
+      },
+      {
+        "Index": 86,
+        "ParentColumnIndex": 21
+      },
+      {
+        "Index": 87,
+        "ParentColumnIndex": 21
+      },
+      {
+        "Index": 88,
+        "ParentColumnIndex": 22
+      },
+      {
+        "Index": 89,
+        "ParentColumnIndex": 22
+      },
+      {
+        "Index": 90,
+        "ParentColumnIndex": 22
+      },
+      {
+        "Index": 91,
+        "ParentColumnIndex": 22
+      },
+      {
+        "Index": 92,
+        "ParentColumnIndex": 23
+      },
+      {
+        "Index": 93,
+        "ParentColumnIndex": 23
+      },
+      {
+        "Index": 94,
+        "ParentColumnIndex": 23
+      },
+      {
+        "Index": 95,
+        "ParentColumnIndex": 23
+      },
+      {
+        "Index": 96,
+        "ParentColumnIndex": 24
+      },
+      {
+        "Index": 97,
+        "ParentColumnIndex": 24
+      },
+      {
+        "Index": 98,
+        "ParentColumnIndex": 24
+      },
+      {
+        "Index": 99,
+        "ParentColumnIndex": 24
+      },
+      {
+        "Index": 100,
+        "ParentColumnIndex": 25
+      },
+      {
+        "Index": 101,
+        "ParentColumnIndex": 25
+      },
+      {
+        "Index": 102,
+        "ParentColumnIndex": 25
+      },
+      {
+        "Index": 103,
+        "ParentColumnIndex": 25
+      },
+      {
+        "Index": 104,
+        "ParentColumnIndex": 26
+      },
+      {
+        "Index": 105,
+        "ParentColumnIndex": 26
+      },
+      {
+        "Index": 106,
+        "ParentColumnIndex": 26
+      },
+      {
+        "Index": 107,
+        "ParentColumnIndex": 26
+      },
+      {
+        "Index": 108,
+        "ParentColumnIndex": 27
+      },
+      {
+        "Index": 109,
+        "ParentColumnIndex": 27
+      },
+      {
+        "Index": 110,
+        "ParentColumnIndex": 27
+      },
+      {
+        "Index": 111,
+        "ParentColumnIndex": 27
+      },
+      {
+        "Index": 112,
+        "ParentColumnIndex": 28
+      },
+      {
+        "Index": 113,
+        "ParentColumnIndex": 28
+      },
+      {
+        "Index": 114,
+        "ParentColumnIndex": 28
+      },
+      {
+        "Index": 115,
+        "ParentColumnIndex": 28
+      },
+      {
+        "Index": 116,
+        "ParentColumnIndex": 29
+      },
+      {
+        "Index": 117,
+        "ParentColumnIndex": 29
+      },
+      {
+        "Index": 118,
+        "ParentColumnIndex": 29
+      },
+      {
+        "Index": 119,
+        "ParentColumnIndex": 29
+      },
+      {
+        "Index": 120,
+        "ParentColumnIndex": 30
+      },
+      {
+        "Index": 121,
+        "ParentColumnIndex": 30
+      },
+      {
+        "Index": 122,
+        "ParentColumnIndex": 30
+      },
+      {
+        "Index": 123,
+        "ParentColumnIndex": 30
+      },
+      {
+        "Index": 124,
+        "ParentColumnIndex": 31
+      },
+      {
+        "Index": 125,
+        "ParentColumnIndex": 31
+      },
+      {
+        "Index": 126,
+        "ParentColumnIndex": 31
+      },
+      {
+        "Index": 127,
+        "ParentColumnIndex": 31
+      }
+    ],
+    "receptorSynapses": {
+      "Cell: Indx=0, [0]": [
+        {
+          "SourceCell": {
+            "Index": 0,
+            "ParentColumnIndex": 0
+          },
+          "SegmentIndex": 0,
+          "SynapseIndex": 0,
+          "BoxedIndex": {
+            "Value": 0
+          },
+          "InputIndex": 0,
+          "Permanence": 0.21,
+          "m_Isdestroyed": false
+        }
+      ]
+    },
+    "distalSegments": {
+      "Cell: Indx=0, [0]": [
+        {
+          "ParentCell": {
+            "Index": 0,
+            "ParentColumnIndex": 0
+          },
+          "ordinal": 0,
+          "ParentColumnIndex": 0,
+          "boxedIndex": {
+            "Value": 0
+          },
+          "Synapses": [],
+          "SynapsePermConnected": 0.1,
+          "NumInputs": 0
+        }
+      ]
+    },
+    "distalSynapses": {
+      "DistalDendrite: Indx:0": [
+        {
+          "SourceCell": {
+            "Index": 0,
+            "ParentColumnIndex": 0
+          },
+          "SegmentIndex": 0,
+          "SynapseIndex": 0,
+          "BoxedIndex": {
+            "Value": 0
+          },
+          "InputIndex": 0,
+          "Permanence": 0.21,
+          "m_Isdestroyed": false
+        }
+      ]
+    },
+    "nextFlatIdx": 1,
+    "nextSegmentOrdinal": 1,
+    "nextSynapseOrdinal": 1,
+    "<NumSynapses>k__BackingField": 1,
+    "freeFlatIdxs": [],
+    "m_SegmentForFlatIdx": [
+      {
+        "ParentCell": {
+          "Index": 0,
+          "ParentColumnIndex": 0
+        },
+        "ordinal": 0,
+        "ParentColumnIndex": 0,
+        "boxedIndex": {
+          "Value": 0
+        },
+        "Synapses": [],
+        "SynapsePermConnected": 0.1,
+        "NumInputs": 0
+      }
+    ],
+    "lastActivity": {
+      "ActiveSynapses": {},
+      "PotentialSynapses": {
+        "0": 1
+      }
+    },
+    "seed": 42,
+    "random": {
+      "$type": "NeoCortexApi.ThreadSafeRandom, NeoCortexEntities"
+    }
+  },
+  "<Name>k__BackingField": null
+}

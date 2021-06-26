@@ -1,0 +1,80 @@
+D:\NewTestRepos\testrepository\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\DistributedComputeLib.deps.json
+D:\NewTestRepos\testrepository\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\DistributedComputeLib.dll
+D:\NewTestRepos\testrepository\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\DistributedComputeLib.pdb
+D:\NewTestRepos\testrepository\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\AkkaSb.Net.dll
+D:\NewTestRepos\testrepository\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\NewTestRepos\testrepository\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexEntities.dll
+D:\NewTestRepos\testrepository\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\AkkaSb.Net.pdb
+D:\NewTestRepos\testrepository\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+D:\NewTestRepos\testrepository\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexEntities.pdb
+D:\NewTestRepos\testrepository\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.csprojAssemblyReference.cache
+D:\NewTestRepos\testrepository\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.csproj.CoreCompileInputs.cache
+D:\NewTestRepos\testrepository\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.AssemblyInfoInputs.cache
+D:\NewTestRepos\testrepository\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.AssemblyInfo.cs
+D:\NewTestRepos\testrepository\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.csproj.CopyComplete
+D:\NewTestRepos\testrepository\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.dll
+D:\NewTestRepos\testrepository\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.pdb
+D:\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\DistributedComputeLib.deps.json
+D:\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\DistributedComputeLib.dll
+D:\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\DistributedComputeLib.pdb
+D:\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\AkkaSb.Net.dll
+D:\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexEntities.dll
+D:\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\AkkaSb.Net.pdb
+D:\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+D:\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexEntities.pdb
+D:\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.csprojAssemblyReference.cache
+D:\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.AssemblyInfoInputs.cache
+D:\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.AssemblyInfo.cs
+D:\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.csproj.CoreCompileInputs.cache
+D:\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.csproj.CopyComplete
+D:\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.dll
+D:\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.pdb
+D:\New package for docker\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\DistributedComputeLib.deps.json
+D:\New package for docker\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\DistributedComputeLib.dll
+D:\New package for docker\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\DistributedComputeLib.pdb
+D:\New package for docker\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\AkkaSb.Net.dll
+D:\New package for docker\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\New package for docker\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexEntities.dll
+D:\New package for docker\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\AkkaSb.Net.pdb
+D:\New package for docker\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+D:\New package for docker\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexEntities.pdb
+D:\New package for docker\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.csprojAssemblyReference.cache
+D:\New package for docker\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.AssemblyInfoInputs.cache
+D:\New package for docker\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.AssemblyInfo.cs
+D:\New package for docker\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.csproj.CoreCompileInputs.cache
+D:\New package for docker\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.csproj.CopyComplete
+D:\New package for docker\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.dll
+D:\New package for docker\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.pdb
+D:\GFDWFTHF\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\DistributedComputeLib.deps.json
+D:\GFDWFTHF\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\DistributedComputeLib.dll
+D:\GFDWFTHF\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\DistributedComputeLib.pdb
+D:\GFDWFTHF\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\AkkaSb.Net.dll
+D:\GFDWFTHF\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\GFDWFTHF\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexEntities.dll
+D:\GFDWFTHF\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\AkkaSb.Net.pdb
+D:\GFDWFTHF\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+D:\GFDWFTHF\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexEntities.pdb
+D:\GFDWFTHF\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.csprojAssemblyReference.cache
+D:\GFDWFTHF\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.AssemblyInfoInputs.cache
+D:\GFDWFTHF\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.AssemblyInfo.cs
+D:\GFDWFTHF\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.csproj.CoreCompileInputs.cache
+D:\GFDWFTHF\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.csproj.CopyComplete
+D:\GFDWFTHF\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.dll
+D:\GFDWFTHF\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.pdb
+D:\All Software Folders\GFDWFTHF\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\DistributedComputeLib.deps.json
+D:\All Software Folders\GFDWFTHF\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\DistributedComputeLib.dll
+D:\All Software Folders\GFDWFTHF\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\DistributedComputeLib.pdb
+D:\All Software Folders\GFDWFTHF\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\AkkaSb.Net.dll
+D:\All Software Folders\GFDWFTHF\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\All Software Folders\GFDWFTHF\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexEntities.dll
+D:\All Software Folders\GFDWFTHF\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\AkkaSb.Net.pdb
+D:\All Software Folders\GFDWFTHF\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+D:\All Software Folders\GFDWFTHF\HTM\DistributedComputeLib\bin\Debug\netstandard2.0\NeoCortexEntities.pdb
+D:\All Software Folders\GFDWFTHF\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.csprojAssemblyReference.cache
+D:\All Software Folders\GFDWFTHF\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.AssemblyInfoInputs.cache
+D:\All Software Folders\GFDWFTHF\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.AssemblyInfo.cs
+D:\All Software Folders\GFDWFTHF\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.csproj.CoreCompileInputs.cache
+D:\All Software Folders\GFDWFTHF\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.csproj.CopyComplete
+D:\All Software Folders\GFDWFTHF\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.dll
+D:\All Software Folders\GFDWFTHF\HTM\DistributedComputeLib\obj\Debug\netstandard2.0\DistributedComputeLib.pdb

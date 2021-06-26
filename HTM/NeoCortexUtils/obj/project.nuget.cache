@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "oaYOnbkxYJCd5nwoFzQ/fnz3uIs4ziDzNxBl+dHDcC56pcOw5IFU0YCykWJQ+5p2RgQrV5d4RvqYC10J/71gbA==",
+  "success": true,
+  "projectFilePath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexUtils\\NeoCortexUtils.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anikl\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\2.9.8\\microsoft.codeanalysis.fxcopanalyzers.2.9.8.nupkg.sha512",
+    "C:\\Users\\anikl\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\2.9.8\\microsoft.codeanalysis.versioncheckanalyzer.2.9.8.nupkg.sha512",
+    "C:\\Users\\anikl\\.nuget\\packages\\microsoft.codequality.analyzers\\2.9.8\\microsoft.codequality.analyzers.2.9.8.nupkg.sha512",
+    "C:\\Users\\anikl\\.nuget\\packages\\microsoft.netcore.analyzers\\2.9.8\\microsoft.netcore.analyzers.2.9.8.nupkg.sha512",
+    "C:\\Users\\anikl\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\anikl\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\anikl\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\anikl\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\anikl\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0-preview3.19128.7\\microsoft.netcore.platforms.3.0.0-preview3.19128.7.nupkg.sha512",
+    "C:\\Users\\anikl\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\anikl\\.nuget\\packages\\microsoft.netframework.analyzers\\2.9.8\\microsoft.netframework.analyzers.2.9.8.nupkg.sha512",
+    "C:\\Users\\anikl\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0-preview3.19128.7\\microsoft.win32.systemevents.4.6.0-preview3.19128.7.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\anikl\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\anikl\\.nuget\\packages\\system.drawing.common\\4.6.0-preview3.19128.7\\system.drawing.common.4.6.0-preview3.19128.7.nupkg.sha512"
+  ],
+  "logs": []
+}

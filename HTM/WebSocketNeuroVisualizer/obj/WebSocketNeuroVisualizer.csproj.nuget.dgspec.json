@@ -1,0 +1,503 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\All Software Folders\\GFDWFTHF\\HTM\\WebSocketNeuroVisualizer\\WebSocketNeuroVisualizer.csproj": {}
+  },
+  "projects": {
+    "D:\\All Software Folders\\GFDWFTHF\\HTM\\AkkaSb.Net\\AkkaSb.Net.csproj": {
+      "version": "1.0.1-alpha",
+      "restore": {
+        "projectUniqueName": "D:\\All Software Folders\\GFDWFTHF\\HTM\\AkkaSb.Net\\AkkaSb.Net.csproj",
+        "projectName": "AkkaSb.Net",
+        "projectPath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\AkkaSb.Net\\AkkaSb.Net.csproj",
+        "packagesPath": "C:\\Users\\anikl\\.nuget\\packages\\",
+        "outputPath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\AkkaSb.Net\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\All Software Folders\\GFDWFTHF\\HTM\\NuGet.Config",
+          "C:\\Users\\anikl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\All Software Folders\\GFDWFTHF\\HTM\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.Azure.Cosmos.Table": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Microsoft.Azure.ServiceBus": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Microsoft.Azure.Storage.Blob": {
+              "target": "Package",
+              "version": "[10.0.3, )"
+            },
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.8, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\All Software Folders\\GFDWFTHF\\HTM\\DistributedComputeLib\\DistributedComputeLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\All Software Folders\\GFDWFTHF\\HTM\\DistributedComputeLib\\DistributedComputeLib.csproj",
+        "projectName": "DistributedComputeLib",
+        "projectPath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\DistributedComputeLib\\DistributedComputeLib.csproj",
+        "packagesPath": "C:\\Users\\anikl\\.nuget\\packages\\",
+        "outputPath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\DistributedComputeLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\All Software Folders\\GFDWFTHF\\HTM\\NuGet.Config",
+          "C:\\Users\\anikl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\All Software Folders\\GFDWFTHF\\HTM\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\All Software Folders\\GFDWFTHF\\HTM\\AkkaSb.Net\\AkkaSb.Net.csproj": {
+                "projectPath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\AkkaSb.Net\\AkkaSb.Net.csproj"
+              },
+              "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexArrayLib\\NeoCortexArrayLib.csproj": {
+                "projectPath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexArrayLib\\NeoCortexArrayLib.csproj"
+              },
+              "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexEntities\\NeoCortexEntities.csproj": {
+                "projectPath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexEntities\\NeoCortexEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Akka.Remote": {
+              "target": "Package",
+              "version": "[1.3.12, )"
+            },
+            "ImageBinarizer": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.8, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexApi\\NeoCortexApi.csproj": {
+      "version": "1.0.7",
+      "restore": {
+        "projectUniqueName": "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexApi\\NeoCortexApi.csproj",
+        "projectName": "NeoCortexApi",
+        "projectPath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexApi\\NeoCortexApi.csproj",
+        "packagesPath": "C:\\Users\\anikl\\.nuget\\packages\\",
+        "outputPath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\All Software Folders\\GFDWFTHF\\HTM\\NuGet.Config",
+          "C:\\Users\\anikl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\All Software Folders\\GFDWFTHF\\HTM\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\All Software Folders\\GFDWFTHF\\HTM\\DistributedComputeLib\\DistributedComputeLib.csproj": {
+                "projectPath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\DistributedComputeLib\\DistributedComputeLib.csproj"
+              },
+              "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexArrayLib\\NeoCortexArrayLib.csproj": {
+                "projectPath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexArrayLib\\NeoCortexArrayLib.csproj"
+              },
+              "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexEntities\\NeoCortexEntities.csproj": {
+                "projectPath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexEntities\\NeoCortexEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.8, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexArrayLib\\NeoCortexArrayLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexArrayLib\\NeoCortexArrayLib.csproj",
+        "projectName": "NeoCortexArrayLib",
+        "projectPath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexArrayLib\\NeoCortexArrayLib.csproj",
+        "packagesPath": "C:\\Users\\anikl\\.nuget\\packages\\",
+        "outputPath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexArrayLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\All Software Folders\\GFDWFTHF\\HTM\\NuGet.Config",
+          "C:\\Users\\anikl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\All Software Folders\\GFDWFTHF\\HTM\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.8, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexEntities\\NeoCortexEntities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexEntities\\NeoCortexEntities.csproj",
+        "projectName": "NeoCortexEntities",
+        "projectPath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexEntities\\NeoCortexEntities.csproj",
+        "packagesPath": "C:\\Users\\anikl\\.nuget\\packages\\",
+        "outputPath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexEntities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\All Software Folders\\GFDWFTHF\\HTM\\NuGet.Config",
+          "C:\\Users\\anikl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\All Software Folders\\GFDWFTHF\\HTM\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexArrayLib\\NeoCortexArrayLib.csproj": {
+                "projectPath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexArrayLib\\NeoCortexArrayLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.8, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\All Software Folders\\GFDWFTHF\\HTM\\WebSocketNeuroVisualizer\\WebSocketNeuroVisualizer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\All Software Folders\\GFDWFTHF\\HTM\\WebSocketNeuroVisualizer\\WebSocketNeuroVisualizer.csproj",
+        "projectName": "WebSocketNeuroVisualizer",
+        "projectPath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\WebSocketNeuroVisualizer\\WebSocketNeuroVisualizer.csproj",
+        "packagesPath": "C:\\Users\\anikl\\.nuget\\packages\\",
+        "outputPath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\WebSocketNeuroVisualizer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\All Software Folders\\GFDWFTHF\\HTM\\NuGet.Config",
+          "C:\\Users\\anikl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\All Software Folders\\GFDWFTHF\\HTM\\nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexApi\\NeoCortexApi.csproj": {
+                "projectPath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexApi\\NeoCortexApi.csproj"
+              },
+              "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexEntities\\NeoCortexEntities.csproj": {
+                "projectPath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexEntities\\NeoCortexEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.8, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

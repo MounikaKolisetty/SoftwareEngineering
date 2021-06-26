@@ -1,0 +1,9 @@
+D:\GFDWFTHF\HTM\AkkaSb.Net\bin\Release\netstandard2.0\AkkaSb.Net.deps.json
+D:\GFDWFTHF\HTM\AkkaSb.Net\bin\Release\netstandard2.0\AkkaSb.Net.dll
+D:\GFDWFTHF\HTM\AkkaSb.Net\bin\Release\netstandard2.0\AkkaSb.Net.pdb
+D:\GFDWFTHF\HTM\AkkaSb.Net\obj\Release\netstandard2.0\AkkaSb.Net.csprojAssemblyReference.cache
+D:\GFDWFTHF\HTM\AkkaSb.Net\obj\Release\netstandard2.0\AkkaSb.Net.AssemblyInfoInputs.cache
+D:\GFDWFTHF\HTM\AkkaSb.Net\obj\Release\netstandard2.0\AkkaSb.Net.AssemblyInfo.cs
+D:\GFDWFTHF\HTM\AkkaSb.Net\obj\Release\netstandard2.0\AkkaSb.Net.csproj.CoreCompileInputs.cache
+D:\GFDWFTHF\HTM\AkkaSb.Net\obj\Release\netstandard2.0\AkkaSb.Net.dll
+D:\GFDWFTHF\HTM\AkkaSb.Net\obj\Release\netstandard2.0\AkkaSb.Net.pdb

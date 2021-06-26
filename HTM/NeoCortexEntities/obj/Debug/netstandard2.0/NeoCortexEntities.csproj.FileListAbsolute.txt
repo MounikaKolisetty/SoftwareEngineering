@@ -1,0 +1,60 @@
+D:\NewTestRepos\testrepository\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexEntities.deps.json
+D:\NewTestRepos\testrepository\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexEntities.dll
+D:\NewTestRepos\testrepository\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexEntities.pdb
+D:\NewTestRepos\testrepository\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\NewTestRepos\testrepository\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+D:\NewTestRepos\testrepository\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.csprojAssemblyReference.cache
+D:\NewTestRepos\testrepository\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.csproj.CoreCompileInputs.cache
+D:\NewTestRepos\testrepository\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.AssemblyInfoInputs.cache
+D:\NewTestRepos\testrepository\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.AssemblyInfo.cs
+D:\NewTestRepos\testrepository\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.csproj.CopyComplete
+D:\NewTestRepos\testrepository\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.dll
+D:\NewTestRepos\testrepository\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.pdb
+D:\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexEntities.deps.json
+D:\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexEntities.dll
+D:\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexEntities.pdb
+D:\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+D:\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.csprojAssemblyReference.cache
+D:\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.AssemblyInfoInputs.cache
+D:\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.AssemblyInfo.cs
+D:\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.csproj.CoreCompileInputs.cache
+D:\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.csproj.CopyComplete
+D:\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.dll
+D:\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.pdb
+D:\New package for docker\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexEntities.deps.json
+D:\New package for docker\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexEntities.dll
+D:\New package for docker\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexEntities.pdb
+D:\New package for docker\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\New package for docker\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+D:\New package for docker\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.csprojAssemblyReference.cache
+D:\New package for docker\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.AssemblyInfoInputs.cache
+D:\New package for docker\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.AssemblyInfo.cs
+D:\New package for docker\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.csproj.CoreCompileInputs.cache
+D:\New package for docker\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.csproj.CopyComplete
+D:\New package for docker\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.dll
+D:\New package for docker\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.pdb
+D:\GFDWFTHF\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexEntities.deps.json
+D:\GFDWFTHF\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexEntities.dll
+D:\GFDWFTHF\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexEntities.pdb
+D:\GFDWFTHF\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\GFDWFTHF\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+D:\GFDWFTHF\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.csprojAssemblyReference.cache
+D:\GFDWFTHF\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.AssemblyInfoInputs.cache
+D:\GFDWFTHF\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.AssemblyInfo.cs
+D:\GFDWFTHF\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.csproj.CoreCompileInputs.cache
+D:\GFDWFTHF\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.csproj.CopyComplete
+D:\GFDWFTHF\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.dll
+D:\GFDWFTHF\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.pdb
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexEntities.deps.json
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexEntities.dll
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexEntities.pdb
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexEntities\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.csprojAssemblyReference.cache
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.AssemblyInfoInputs.cache
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.AssemblyInfo.cs
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.csproj.CoreCompileInputs.cache
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.csproj.CopyComplete
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.dll
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexEntities\obj\Debug\netstandard2.0\NeoCortexEntities.pdb

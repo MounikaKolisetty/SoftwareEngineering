@@ -1,0 +1,9 @@
+D:\GFDWFTHF\HTM\NeoCortexArrayLib\bin\Release\netstandard2.0\NeoCortexArrayLib.deps.json
+D:\GFDWFTHF\HTM\NeoCortexArrayLib\bin\Release\netstandard2.0\NeoCortexArrayLib.dll
+D:\GFDWFTHF\HTM\NeoCortexArrayLib\bin\Release\netstandard2.0\NeoCortexArrayLib.pdb
+D:\GFDWFTHF\HTM\NeoCortexArrayLib\obj\Release\netstandard2.0\NeoCortexArrayLib.csprojAssemblyReference.cache
+D:\GFDWFTHF\HTM\NeoCortexArrayLib\obj\Release\netstandard2.0\NeoCortexArrayLib.AssemblyInfoInputs.cache
+D:\GFDWFTHF\HTM\NeoCortexArrayLib\obj\Release\netstandard2.0\NeoCortexArrayLib.AssemblyInfo.cs
+D:\GFDWFTHF\HTM\NeoCortexArrayLib\obj\Release\netstandard2.0\NeoCortexArrayLib.csproj.CoreCompileInputs.cache
+D:\GFDWFTHF\HTM\NeoCortexArrayLib\obj\Release\netstandard2.0\NeoCortexArrayLib.dll
+D:\GFDWFTHF\HTM\NeoCortexArrayLib\obj\Release\netstandard2.0\NeoCortexArrayLib.pdb

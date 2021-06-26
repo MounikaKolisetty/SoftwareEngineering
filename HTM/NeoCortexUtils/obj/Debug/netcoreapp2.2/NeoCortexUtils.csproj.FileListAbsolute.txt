@@ -1,0 +1,45 @@
+D:\NewTestRepos\testrepository\HTM\NeoCortexUtils\bin\Debug\netcoreapp2.2\NeoCortexUtils.deps.json
+D:\NewTestRepos\testrepository\HTM\NeoCortexUtils\bin\Debug\netcoreapp2.2\NeoCortexUtils.dll
+D:\NewTestRepos\testrepository\HTM\NeoCortexUtils\bin\Debug\netcoreapp2.2\NeoCortexUtils.pdb
+D:\NewTestRepos\testrepository\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.csprojAssemblyReference.cache
+D:\NewTestRepos\testrepository\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.csproj.CoreCompileInputs.cache
+D:\NewTestRepos\testrepository\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.AssemblyInfoInputs.cache
+D:\NewTestRepos\testrepository\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.AssemblyInfo.cs
+D:\NewTestRepos\testrepository\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.dll
+D:\NewTestRepos\testrepository\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.pdb
+D:\HTM\NeoCortexUtils\bin\Debug\netcoreapp2.2\NeoCortexUtils.deps.json
+D:\HTM\NeoCortexUtils\bin\Debug\netcoreapp2.2\NeoCortexUtils.dll
+D:\HTM\NeoCortexUtils\bin\Debug\netcoreapp2.2\NeoCortexUtils.pdb
+D:\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.csprojAssemblyReference.cache
+D:\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.AssemblyInfoInputs.cache
+D:\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.AssemblyInfo.cs
+D:\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.csproj.CoreCompileInputs.cache
+D:\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.dll
+D:\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.pdb
+D:\New package for docker\HTM\NeoCortexUtils\bin\Debug\netcoreapp2.2\NeoCortexUtils.deps.json
+D:\New package for docker\HTM\NeoCortexUtils\bin\Debug\netcoreapp2.2\NeoCortexUtils.dll
+D:\New package for docker\HTM\NeoCortexUtils\bin\Debug\netcoreapp2.2\NeoCortexUtils.pdb
+D:\New package for docker\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.csprojAssemblyReference.cache
+D:\New package for docker\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.AssemblyInfoInputs.cache
+D:\New package for docker\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.AssemblyInfo.cs
+D:\New package for docker\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.csproj.CoreCompileInputs.cache
+D:\New package for docker\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.dll
+D:\New package for docker\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.pdb
+D:\GFDWFTHF\HTM\NeoCortexUtils\bin\Debug\netcoreapp2.2\NeoCortexUtils.deps.json
+D:\GFDWFTHF\HTM\NeoCortexUtils\bin\Debug\netcoreapp2.2\NeoCortexUtils.dll
+D:\GFDWFTHF\HTM\NeoCortexUtils\bin\Debug\netcoreapp2.2\NeoCortexUtils.pdb
+D:\GFDWFTHF\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.csprojAssemblyReference.cache
+D:\GFDWFTHF\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.AssemblyInfoInputs.cache
+D:\GFDWFTHF\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.AssemblyInfo.cs
+D:\GFDWFTHF\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.dll
+D:\GFDWFTHF\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.pdb
+D:\GFDWFTHF\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.csproj.CoreCompileInputs.cache
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexUtils\bin\Debug\netcoreapp2.2\NeoCortexUtils.deps.json
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexUtils\bin\Debug\netcoreapp2.2\NeoCortexUtils.dll
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexUtils\bin\Debug\netcoreapp2.2\NeoCortexUtils.pdb
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.csprojAssemblyReference.cache
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.AssemblyInfoInputs.cache
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.AssemblyInfo.cs
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.csproj.CoreCompileInputs.cache
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.dll
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexUtils\obj\Debug\netcoreapp2.2\NeoCortexUtils.pdb

@@ -1,0 +1,45 @@
+D:\NewTestRepos\testrepository\HTM\NeoCortexArrayLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.deps.json
+D:\NewTestRepos\testrepository\HTM\NeoCortexArrayLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\NewTestRepos\testrepository\HTM\NeoCortexArrayLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+D:\NewTestRepos\testrepository\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.csprojAssemblyReference.cache
+D:\NewTestRepos\testrepository\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.csproj.CoreCompileInputs.cache
+D:\NewTestRepos\testrepository\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.AssemblyInfoInputs.cache
+D:\NewTestRepos\testrepository\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.AssemblyInfo.cs
+D:\NewTestRepos\testrepository\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\NewTestRepos\testrepository\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+D:\HTM\NeoCortexArrayLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.deps.json
+D:\HTM\NeoCortexArrayLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\HTM\NeoCortexArrayLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+D:\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.csprojAssemblyReference.cache
+D:\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.AssemblyInfoInputs.cache
+D:\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.AssemblyInfo.cs
+D:\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.csproj.CoreCompileInputs.cache
+D:\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+D:\New package for docker\HTM\NeoCortexArrayLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.deps.json
+D:\New package for docker\HTM\NeoCortexArrayLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\New package for docker\HTM\NeoCortexArrayLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+D:\New package for docker\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.csprojAssemblyReference.cache
+D:\New package for docker\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.AssemblyInfoInputs.cache
+D:\New package for docker\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.AssemblyInfo.cs
+D:\New package for docker\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.csproj.CoreCompileInputs.cache
+D:\New package for docker\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\New package for docker\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+D:\GFDWFTHF\HTM\NeoCortexArrayLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.deps.json
+D:\GFDWFTHF\HTM\NeoCortexArrayLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\GFDWFTHF\HTM\NeoCortexArrayLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+D:\GFDWFTHF\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.csprojAssemblyReference.cache
+D:\GFDWFTHF\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.AssemblyInfoInputs.cache
+D:\GFDWFTHF\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.AssemblyInfo.cs
+D:\GFDWFTHF\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\GFDWFTHF\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+D:\GFDWFTHF\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.csproj.CoreCompileInputs.cache
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexArrayLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.deps.json
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexArrayLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexArrayLib\bin\Debug\netstandard2.0\NeoCortexArrayLib.pdb
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.csprojAssemblyReference.cache
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.AssemblyInfoInputs.cache
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.AssemblyInfo.cs
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.csproj.CoreCompileInputs.cache
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.dll
+D:\All Software Folders\GFDWFTHF\HTM\NeoCortexArrayLib\obj\Debug\netstandard2.0\NeoCortexArrayLib.pdb

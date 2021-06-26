@@ -1,0 +1,512 @@
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\akkahost.hocon
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\HtmAkkaHost.exe
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\HtmAkkaHost.deps.json
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\HtmAkkaHost.runtimeconfig.json
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\HtmAkkaHost.runtimeconfig.dev.json
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\HtmAkkaHost.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\HtmAkkaHost.pdb
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Akka.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Akka.Remote.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DotNetty.Buffers.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DotNetty.Codecs.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DotNetty.Common.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DotNetty.Handlers.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DotNetty.Transport.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Google.Protobuf.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\ImageBinarizer.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.Amqp.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Table.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.DocumentDB.Core.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.KeyVault.Core.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.ServiceBus.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.Services.AppAuthentication.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.Storage.Blob.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.Storage.Common.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Console.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Debug.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.OData.Core.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.OData.Edm.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Spatial.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ComponentModel.Composition.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Data.Odbc.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Diagnostics.EventLog.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Diagnostics.PerformanceCounter.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.DirectoryServices.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.DirectoryServices.AccountManagement.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.DirectoryServices.Protocols.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.IO.Packaging.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.IO.Ports.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Management.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Net.Http.WinHttpHandler.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Xml.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.Duplex.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.Http.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.NetTcp.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.Primitives.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.Security.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.Syndication.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceProcess.ServiceController.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Threading.AccessControl.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win7-x64\native\DocumentDB.Spatial.Sql.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win7\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\AkkaSb.Net.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DistributedComputeLib.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexApi.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexArrayLib.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexEntities.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexUtils.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\AkkaSb.Net.pdb
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DistributedComputeLib.pdb
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexApi.pdb
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexUtils.pdb
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexArrayLib.pdb
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexEntities.pdb
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.csprojAssemblyReference.cache
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.csproj.CoreCompileInputs.cache
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.AssemblyInfoInputs.cache
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.AssemblyInfo.cs
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.csproj.CopyComplete
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.dll
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.pdb
+D:\NewTestRepos\testrepository\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.genruntimeconfig.cache
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\akkahost.hocon
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\HtmAkkaHost.exe
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\HtmAkkaHost.deps.json
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\HtmAkkaHost.runtimeconfig.json
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\HtmAkkaHost.runtimeconfig.dev.json
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\HtmAkkaHost.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\HtmAkkaHost.pdb
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Akka.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Akka.Remote.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DotNetty.Buffers.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DotNetty.Codecs.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DotNetty.Common.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DotNetty.Handlers.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DotNetty.Transport.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Google.Protobuf.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\ImageBinarizer.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.Amqp.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Table.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.DocumentDB.Core.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.KeyVault.Core.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.ServiceBus.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.Services.AppAuthentication.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.Storage.Blob.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.Storage.Common.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Console.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Debug.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.OData.Core.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.OData.Edm.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Spatial.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ComponentModel.Composition.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Data.Odbc.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Diagnostics.EventLog.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Diagnostics.PerformanceCounter.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.DirectoryServices.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.DirectoryServices.AccountManagement.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.DirectoryServices.Protocols.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.IO.Packaging.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.IO.Ports.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Management.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Net.Http.WinHttpHandler.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Xml.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.Duplex.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.Http.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.NetTcp.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.Primitives.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.Security.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.Syndication.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceProcess.ServiceController.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Threading.AccessControl.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win7-x64\native\DocumentDB.Spatial.Sql.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win7\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\AkkaSb.Net.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DistributedComputeLib.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexApi.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexArrayLib.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexEntities.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexUtils.dll
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\AkkaSb.Net.pdb
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DistributedComputeLib.pdb
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexApi.pdb
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexUtils.pdb
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexArrayLib.pdb
+D:\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexEntities.pdb
+D:\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.csprojAssemblyReference.cache
+D:\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.AssemblyInfoInputs.cache
+D:\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.AssemblyInfo.cs
+D:\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.csproj.CoreCompileInputs.cache
+D:\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.csproj.CopyComplete
+D:\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.dll
+D:\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.pdb
+D:\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.genruntimeconfig.cache
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\akkahost.hocon
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\HtmAkkaHost.exe
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\HtmAkkaHost.deps.json
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\HtmAkkaHost.runtimeconfig.json
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\HtmAkkaHost.runtimeconfig.dev.json
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\HtmAkkaHost.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\HtmAkkaHost.pdb
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Akka.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Akka.Remote.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DotNetty.Buffers.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DotNetty.Codecs.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DotNetty.Common.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DotNetty.Handlers.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DotNetty.Transport.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Google.Protobuf.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\ImageBinarizer.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.Amqp.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Table.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.DocumentDB.Core.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.KeyVault.Core.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.ServiceBus.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.Services.AppAuthentication.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.Storage.Blob.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.Storage.Common.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Console.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Debug.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.OData.Core.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.OData.Edm.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Spatial.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ComponentModel.Composition.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Data.Odbc.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Diagnostics.EventLog.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Diagnostics.PerformanceCounter.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.DirectoryServices.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.DirectoryServices.AccountManagement.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.DirectoryServices.Protocols.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.IO.Packaging.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.IO.Ports.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Management.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Net.Http.WinHttpHandler.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Xml.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.Duplex.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.Http.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.NetTcp.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.Primitives.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.Security.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.Syndication.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceProcess.ServiceController.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Threading.AccessControl.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win7-x64\native\DocumentDB.Spatial.Sql.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win7\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\AkkaSb.Net.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DistributedComputeLib.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexApi.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexArrayLib.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexEntities.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexUtils.dll
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\AkkaSb.Net.pdb
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DistributedComputeLib.pdb
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexApi.pdb
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexUtils.pdb
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexArrayLib.pdb
+D:\New package for docker\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexEntities.pdb
+D:\New package for docker\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.csprojAssemblyReference.cache
+D:\New package for docker\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.AssemblyInfoInputs.cache
+D:\New package for docker\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.AssemblyInfo.cs
+D:\New package for docker\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.csproj.CoreCompileInputs.cache
+D:\New package for docker\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.csproj.CopyComplete
+D:\New package for docker\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.dll
+D:\New package for docker\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.pdb
+D:\New package for docker\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.genruntimeconfig.cache
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\akkahost.hocon
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\HtmAkkaHost.exe
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\HtmAkkaHost.deps.json
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\HtmAkkaHost.runtimeconfig.json
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\HtmAkkaHost.runtimeconfig.dev.json
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\HtmAkkaHost.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\HtmAkkaHost.pdb
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Akka.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Akka.Remote.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DotNetty.Buffers.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DotNetty.Codecs.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DotNetty.Common.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DotNetty.Handlers.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DotNetty.Transport.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Google.Protobuf.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\ImageBinarizer.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.Amqp.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Table.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.DocumentDB.Core.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.KeyVault.Core.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.ServiceBus.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.Services.AppAuthentication.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.Storage.Blob.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Azure.Storage.Common.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Console.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Debug.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.OData.Core.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.OData.Edm.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Spatial.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.CodeDom.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ComponentModel.Composition.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Data.Odbc.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Data.SqlClient.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Diagnostics.EventLog.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Diagnostics.PerformanceCounter.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.DirectoryServices.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.DirectoryServices.AccountManagement.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.DirectoryServices.Protocols.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.IO.Packaging.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.IO.Ports.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Management.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Net.Http.WinHttpHandler.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Xml.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.Duplex.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.Http.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.NetTcp.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.Primitives.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.Security.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceModel.Syndication.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.ServiceProcess.ServiceController.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\System.Threading.AccessControl.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win7-x64\native\DocumentDB.Spatial.Sql.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.AccessControl.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win7\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Threading.AccessControl.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\AkkaSb.Net.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DistributedComputeLib.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexApi.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexArrayLib.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexEntities.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexUtils.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\AkkaSb.Net.pdb
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\DistributedComputeLib.pdb
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexApi.pdb
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexUtils.pdb
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexArrayLib.pdb
+D:\GFDWFTHF\HTM\HtmAkkaHost\bin\Debug\netcoreapp3.0\NeoCortexEntities.pdb
+D:\GFDWFTHF\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.csprojAssemblyReference.cache
+D:\GFDWFTHF\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.AssemblyInfoInputs.cache
+D:\GFDWFTHF\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.AssemblyInfo.cs
+D:\GFDWFTHF\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.csproj.CopyComplete
+D:\GFDWFTHF\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.dll
+D:\GFDWFTHF\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.pdb
+D:\GFDWFTHF\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.genruntimeconfig.cache
+D:\GFDWFTHF\HTM\HtmAkkaHost\obj\Debug\netcoreapp3.0\HtmAkkaHost.csproj.CoreCompileInputs.cache

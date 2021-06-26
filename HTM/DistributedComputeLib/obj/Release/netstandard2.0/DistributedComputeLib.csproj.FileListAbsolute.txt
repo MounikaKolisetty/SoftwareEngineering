@@ -1,0 +1,16 @@
+D:\GFDWFTHF\HTM\DistributedComputeLib\bin\Release\netstandard2.0\DistributedComputeLib.deps.json
+D:\GFDWFTHF\HTM\DistributedComputeLib\bin\Release\netstandard2.0\DistributedComputeLib.dll
+D:\GFDWFTHF\HTM\DistributedComputeLib\bin\Release\netstandard2.0\DistributedComputeLib.pdb
+D:\GFDWFTHF\HTM\DistributedComputeLib\bin\Release\netstandard2.0\AkkaSb.Net.dll
+D:\GFDWFTHF\HTM\DistributedComputeLib\bin\Release\netstandard2.0\NeoCortexArrayLib.dll
+D:\GFDWFTHF\HTM\DistributedComputeLib\bin\Release\netstandard2.0\NeoCortexEntities.dll
+D:\GFDWFTHF\HTM\DistributedComputeLib\bin\Release\netstandard2.0\AkkaSb.Net.pdb
+D:\GFDWFTHF\HTM\DistributedComputeLib\bin\Release\netstandard2.0\NeoCortexArrayLib.pdb
+D:\GFDWFTHF\HTM\DistributedComputeLib\bin\Release\netstandard2.0\NeoCortexEntities.pdb
+D:\GFDWFTHF\HTM\DistributedComputeLib\obj\Release\netstandard2.0\DistributedComputeLib.csprojAssemblyReference.cache
+D:\GFDWFTHF\HTM\DistributedComputeLib\obj\Release\netstandard2.0\DistributedComputeLib.AssemblyInfoInputs.cache
+D:\GFDWFTHF\HTM\DistributedComputeLib\obj\Release\netstandard2.0\DistributedComputeLib.AssemblyInfo.cs
+D:\GFDWFTHF\HTM\DistributedComputeLib\obj\Release\netstandard2.0\DistributedComputeLib.csproj.CoreCompileInputs.cache
+D:\GFDWFTHF\HTM\DistributedComputeLib\obj\Release\netstandard2.0\DistributedComputeLib.csproj.CopyComplete
+D:\GFDWFTHF\HTM\DistributedComputeLib\obj\Release\netstandard2.0\DistributedComputeLib.dll
+D:\GFDWFTHF\HTM\DistributedComputeLib\obj\Release\netstandard2.0\DistributedComputeLib.pdb

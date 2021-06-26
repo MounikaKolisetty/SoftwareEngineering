@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ZdVDgdqZBjz6Vdw/5sWdmQ2nat4FipPubI5Zu7sDM2jrRijOUsMAmCrADPrpJJhnpNXPk+lKkv+vV0EYk8Geg==",
+  "success": true,
+  "projectFilePath": "D:\\All Software Folders\\GFDWFTHF\\HTM\\NeoCortexArrayLib\\NeoCortexArrayLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anikl\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\2.9.8\\microsoft.codeanalysis.fxcopanalyzers.2.9.8.nupkg.sha512",
+    "C:\\Users\\anikl\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\2.9.8\\microsoft.codeanalysis.versioncheckanalyzer.2.9.8.nupkg.sha512",
+    "C:\\Users\\anikl\\.nuget\\packages\\microsoft.codequality.analyzers\\2.9.8\\microsoft.codequality.analyzers.2.9.8.nupkg.sha512",
+    "C:\\Users\\anikl\\.nuget\\packages\\microsoft.netcore.analyzers\\2.9.8\\microsoft.netcore.analyzers.2.9.8.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\anikl\\.nuget\\packages\\microsoft.netframework.analyzers\\2.9.8\\microsoft.netframework.analyzers.2.9.8.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\anikl\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
